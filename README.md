@@ -37,8 +37,8 @@ Start Client - http://localhost:3000
 
 ```
 $ cd webapp
-$ npm install
-$ npm start
+$ yarn
+$ yarn start
 ```
 
 **Start in production mode** - http://localhost:8080
