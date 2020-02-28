@@ -1,6 +1,6 @@
 # try-goxygen
 
-Generate by **[Goxygen](https://github.com/Shpota/goxygen)**
+Generate with **[Goxygen](https://github.com/Shpota/goxygen)**
 - *Frontend: **React***
 - *Backend: **Go***
 - *DB: **MongoDB***
@@ -20,7 +20,7 @@ $ git clone git@github.com:KotaTanaka/try-goxygen.git
 $ cd try-goxygen
 ```
 
-Start Mongo DB - http://localhost:27017
+Start Mongo DB - localhost:27017
 
 ```
 $ docker-compose -f docker-compose-dev.yml up
