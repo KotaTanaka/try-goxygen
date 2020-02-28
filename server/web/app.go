@@ -30,8 +30,8 @@ func (a *App) Serve() error {
 	for path, handler := range a.handlers {
 		http.Handle(path, handler)
 	}
-	log.Println("Web server is available on port 8080")
-	return http.ListenAndServe(":8080", nil)
+	log.Println("Web server is available on port 5080")
+	return http.ListenAndServe(":5080", nil)
 }
 
 func (a *App) GetTechnologies(w http.ResponseWriter, r *http.Request) {

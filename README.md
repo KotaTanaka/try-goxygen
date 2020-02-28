@@ -26,7 +26,7 @@ Start Mongo DB - http://localhost:27017
 $ docker-compose -f docker-compose-dev.yml up
 ```
 
-Start Server - http://localhost:8080
+Start Server - http://localhost:5080
 
 ```
 $ cd server
@@ -41,7 +41,7 @@ $ yarn
 $ yarn start
 ```
 
-**Start in production mode** - http://localhost:8080
+**Start in production mode** - http://localhost:5080
 
 
 ```
