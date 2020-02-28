@@ -1,9 +1,9 @@
 # try-goxygen
 
 Generate by **[Goxygen](https://github.com/Shpota/goxygen)**
-- *Frontend: React*
-- *Backend: Go*
-- *DB: MongoDB*
+- *Frontend: **React***
+- *Backend: **Go***
+- *DB: **MongoDB***
 
 ## Environment
 
@@ -33,7 +33,7 @@ $ cd server
 $ go run server.go
 ```
 
-Start Client - http://localhost:3000
+Start Client - http://localhost:5001
 
 ```
 $ cd webapp
